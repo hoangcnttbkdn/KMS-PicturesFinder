@@ -1,10 +1,10 @@
-# PicturesFinder
+# Pictures Finder
 ## Repositories 🔥
-* Client End User [https://github.com/hoangcnttbkdn/KMS-PictureFinder-FE-APP](https://github.com/hoangcnttbkdn/KMS-PictureFinder-FE-APP)
-* Mobile [https://github.com/hoangcnttbkdn/KMS-PictureFinder-FE-APP](https://github.com/hoangcnttbkdn/KMS-PictureFinder-FE-APP)
-* Backend Service [https://github.com/hoangcnttbkdn/KMS-PictureFinder-FE-APP](https://github.com/hoangcnttbkdn/KMS-PictureFinder-FE-APP)
-* AI Service [https://github.com/hoangcnttbkdn/KMS-PictureFinder-FE-APP](https://github.com/hoangcnttbkdn/KMS-PictureFinder-FE-APP)
-* Worker [https://github.com/hoangcnttbkdn/KMS-PictureFinder-FE-APP](https://github.com/hoangcnttbkdn/KMS-PictureFinder-FE-APP)
+* [AI Service](https://github.com/hoangcnttbkdn/KMS-PictureFinder-AI)
+* [Client Web App](https://github.com/hoangcnttbkdn/KMS-PictureFinder-FE-APP)
+* [Mobile](https://github.com/hoangcnttbkdn/KMS-PictureFinder-Mobile)
+* [Backend Service](https://github.com/hoangcnttbkdn/KMS-PictureFinder-BE)
+* [Worker](https://github.com/hoangcnttbkdn/KMS-PictureFinder-Worker)
 
 ## Contributor 🌟
 <table>
